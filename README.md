@@ -1,5 +1,5 @@
 # Fran Robot´s
-- Somos a equipe do [Centro Educacional SESI-109](https://franca.sesisp.org.br/) com sede em Franca, SP 📌📍
+- Somos a equipe do [Centro Educacional SESI-109](https://franca.sesisp.org.br/) com sede em [Franca, SP](https://www.franca.sp.gov.br/) 📍
 - Junte-se a nós enquanto exploramos o mundo da robótica e da inovação 🚀🔧
 - Siga nossa jornada no [Instagram](https://www.instagram.com/fran_robots/) 💡🤖
 

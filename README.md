@@ -4,6 +4,6 @@
 - Siga nossa jornada no Instagram: @fran_robots 💡🤖
 
 # Competições:
-  -  🇧🇷   | Rescue Line OBR
-  - ⚙️ | Rescue Maze CBR 
+  -  🇧🇷   | Rescue Line OBR - RoboCup
+  - ⚙️ | Rescue Maze CBR - RoboCup
   - 🌎 | First Lego League Challenge

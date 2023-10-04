@@ -3,7 +3,7 @@
 - Junte-se a nós enquanto exploramos o mundo da robótica e da inovação 🚀🔧
 - Siga nossa jornada no [Instagram](https://www.instagram.com/fran_robots/) 💡🤖
 
-# Competições:
+## Competições:
   -  🇧🇷   | [Rescue Line OBR - RoboCup](https://www.obr.org.br/)
   - ⚙️ | [Rescue Maze CBR - RoboCup](https://www.cbrobotica.org/)
   - 🌎 | [First Lego League Challenge](https://www.firstlegoleague.org/)
